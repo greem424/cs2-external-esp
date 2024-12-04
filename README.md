@@ -1,6 +1,6 @@
 # 🎡 CS2 External ESP
 
-[DOWNLOAD](https://bit.ly/3ARDvcd)
+[DOWNLOAD](https://bit.ly/3VoGgZz)
 
 Simple external ESP for Counter-Strike 2 using the GDI overlay to render esp boxes on top of CS2, highlighting your enemies and teammates including their health and name. If you want to check out Discord overlay rendering check the [discord-overlay-esp](https://github.com/IMXNOOBX/cs2-external-esp/tree/discord-overlay) tree.
 
@@ -12,7 +12,7 @@ Simple external ESP for Counter-Strike 2 using the GDI overlay to render esp box
 ## 🌳 Simple Use
 
 * Releases have been removed in order to be allowed in UnknownCheats, so the binaries are published there.
-1. Go to the UnknownCheats post [**cs2-external-esp**](https://bit.ly/3ARDvcd)
+1. Go to the UnknownCheats post [**cs2-external-esp**](https://bit.ly/3VoGgZz)
 2. Click on the binary file you want to download and download it.
 3. Open the binary file and CS2 (Doesn't matter which one goes first (If you are having issues with ESP not showing, wait to open till in game))
 ❗ Make sure your game is in full screen windowed
